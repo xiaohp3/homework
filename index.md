@@ -7,12 +7,12 @@
 3. [03-homework3](hw03)
 4. [04-homework4](hw04)  
 5. [05-homework5](hw05)
-6. [06-homework3](hw06)
-7. [07-homework4](hw07)  
-8. [08-homework5](hw08)
-9. [09-homework3](hw09)
-10. [10-homework4](hw10)  
-11. [11-homework5](hw11)
+6. [06-homework6](hw06)
+7. [07-homework7](hw07)  
+8. [08-homework8](hw08)
+9. [09-homework9](hw09)
+10. [10-homework10](hw10)  
+11. [11-homework11](hw11)
 
 
 
