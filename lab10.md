@@ -21,3 +21,6 @@
 ## 线性代数
 ### 1
 ![](images/math3.png)
+
+### 2
+![](images/math4.png)
